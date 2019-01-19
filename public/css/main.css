@@ -1,0 +1,64 @@
+.main-title{ /* Premier h1 du body */
+    text-align: center;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+.news
+{
+    width:32%;
+}
+
+.title-admin{
+    background-color:white;
+    color:black;
+    font-size:1.4em;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+.numPage{
+    font-style: normal;
+    padding: 2px;
+    font-weight: bold;
+}
+
+
+.inputNick{
+    margin: 6px 0;
+}
+
+.inputCom{
+    margin-bottom: 6px;
+}
+
+.deleteLink{
+    color: red !important;
+    border-top: 1px solid;
+    margin-left: 20px;
+}
+
+.editLink{
+    color: black;
+    border-top: 1px solid;
+}
+
+.linksEdit{
+    background-color: #cccccc;
+    position: relative;
+    padding-top: 20px;
+}
