@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "D:\wamp64_2\www\Damien\blog_opc\admin\.htpasswd"
+Require valid-user
